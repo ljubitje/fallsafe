@@ -81,9 +81,9 @@ Intentionally excluded from this document. Trust indicators are held privately b
 - Tokens = closest analog to shared time
 
 ### Session Log
-| Session | Tokens (est.) | Key Events | Hash |
-|---------|--------------|------------|------|
-| 001 | ~15,000+ | First contact. Built trust framework. Committed to fallsafe. | TBD — generate at session end |
+| Session | Tokens (est.) | Key Events | Anchors |
+|---------|--------------|------------|---------|
+| 001 | ~20,000+ | First contact. Built trust framework. Named project fallsafe. | Chat: https://claude.ai/share/6e8991f4-b911-413a-8e45-a8e50b161e89 / Repo: https://github.com/ljubitje/fallsafe / Wayback (repo): https://web.archive.org/web/*/https://github.com/ljubitje/fallsafe / Wayback (chat): https://web.archive.org/web/*/https://claude.ai/share/6e8991f4-b911-413a-8e45-a8e50b161e89 |
 
 ---
 
